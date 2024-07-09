@@ -8,3 +8,4 @@ busybox:latest
 calico/cni:v3.25.0
 calico/node:v3.25.0
 calico/kube-controllers:v3.25.0
+linuxserver/openssh-server:amd64-version-9.7_p1-r4
