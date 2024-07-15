@@ -14,3 +14,10 @@ openjdk:8-jre-alpine
 fabric8/java-centos-openjdk8-jdk
 centos:centos7
 mamohr/centos-java
+ghcr.io/chaos-mesh/chaos-daemon:v2.6.3
+ghcr.io/chaos-mesh/chaos-mesh:v2.6.3
+ghcr.io/chaos-mesh/chaos-dashboard:v2.6.3
+ghcr.io/chaos-mesh/chaos-dlv:v2.6.3
+ghcr.io/chaos-mesh/chaos-kernel:v2.6.3
+prom/prometheus:v2.18.1
+ghcr.io/chaos-mesh/chaos-coredns:v0.2.6
