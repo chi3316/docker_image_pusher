@@ -13,3 +13,4 @@ ubuntu:22.04
 openjdk:8-jre-alpine
 fabric8/java-centos-openjdk8-jdk
 centos:centos7
+mamohr/centos-java
