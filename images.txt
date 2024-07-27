@@ -21,3 +21,4 @@ ghcr.io/chaos-mesh/chaos-dlv:v2.6.3
 ghcr.io/chaos-mesh/chaos-kernel:v2.6.3
 prom/prometheus:v2.18.1
 ghcr.io/chaos-mesh/chaos-coredns:v0.2.6
+cloudnativeofalibabacloud/test-runner:v0.0.1
