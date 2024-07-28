@@ -23,6 +23,4 @@ ghcr.io/chaos-mesh/chaos-kernel:v2.6.3
 prom/prometheus:v2.18.1
 ghcr.io/chaos-mesh/chaos-coredns:v0.2.6
 cloudnativeofalibabacloud/test-runner:v0.0.1
-oamdev/kube-webhook-certgen：v2.4.1
-oamdev/cluster-gateway：v1.9.0-alpha.2
-oamdev/vela-core：latest
+hello-world:latest
