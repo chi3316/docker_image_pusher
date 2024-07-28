@@ -27,3 +27,4 @@ hello-world:latest
 ghcr.io/kubevela/oamdev/vela-core:latest
 oamdev/cluster-gateway:v1.9.0-alpha.2
 oamdev/kube-webhook-certgen:v2.4.1
+ghcr.io/kubevela/oamdev/vela-core:v1.4.2
