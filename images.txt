@@ -30,8 +30,8 @@ oamdev/kube-webhook-certgen:v2.4.1
 ghcr.io/kubevela/oamdev/vela-core:v1.4.2
 apache/rocketmq-ci:develop-f9610985-d9a7-47cf-9b7c-8b2c81c5aab0-ubuntu
 apache/rocketmq-ci:develop-94402c3e-906d-40ab-9161-7418164df551-ubuntu
-fluxcd/helm-controller:v0.11.1
-fluxcd/image-automation-controller:v0.14.0
-fluxcd/image-reflector-controller:v0.11.0
-fluxcd/kustomize-controller:v0.13.1
-fluxcd/source-controller:v0.15.3
+fluxcd/helm-controller:v0.36.0
+fluxcd/image-automation-controller:v0.36.0
+fluxcd/image-reflector-controller:v0.30.0
+fluxcd/kustomize-controller:v1.1.0
+fluxcd/source-controller:v1.1.0
