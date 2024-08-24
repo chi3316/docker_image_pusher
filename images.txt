@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 cloudnativeofalibabacloud/test-runner:v0.0.3
 hello-world:latest
-apache/rocketmq-ci:develop-57b30590-0c2f-46e2-b5e0-85a3b4a93254-ubuntu
+apache/rocketmq-ci:develop-daecb087-f039-440a-87fc-5fd3d5bb34f6-ubuntu
