@@ -7,4 +7,4 @@ xhofe/alist:latest
 cloudnativeofalibabacloud/test-runner:v0.0.3
 hello-world:latest
 gcr.io/google-containers/pause:latest
-develop-29805b39-1daa-44ba-9d72-0a4e56a8c025-ubuntu
+apache/rocketmq-ci:develop-29805b39-1daa-44ba-9d72-0a4e56a8c025-ubuntu
