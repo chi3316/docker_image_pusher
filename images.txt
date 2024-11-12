@@ -7,4 +7,4 @@ xhofe/alist:latest
 cloudnativeofalibabacloud/test-runner:v0.0.3
 hello-world:latest
 gcr.io/google-containers/pause:latest
-mmmz/trwebocr
+rabbitmq:management
